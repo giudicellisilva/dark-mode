@@ -1,0 +1,7 @@
+.dark-mode{
+    --cor-primaria: #2E4F4F;
+    --cor-secundaria: #2C3333;
+    --cor-texto: #000;
+
+    --imagem: url(../img/boa-noite.png);
+}
